@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><sunwave:Config xmlns:sunwave="http://www.sunwavecorp.com/some-location" Environment="TEE" platform="项目信息:1842516013C LAVA LAVA 深奥 OP66 OP66 670 SW9058G">
+  <feature>
+    <key_emulation cname="按键功能开关" default="false" desc="默认：false" format="boolean" useable="true">true</key_emulation>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </feature>
+    <device>
+    
+    
+    
+    
+    
+    
+    
+    <key_down_up cname="按键同时报down和up开关" default="false" desc="默认：false" format="boolean" useable="true">true</key_down_up>
+  </device>
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <customer>
+    
+    
+    
+    
+    
+    
+    <optimize_cpu cname="调节 CPU 频率" default="false" desc="匹配前调节 CPU 频率，加快解锁。默认：false" format="boolean" useable="true">true</optimize_cpu>
+    
+    
+    
+    <auth_check_finger cname="比对前检测手指" default="true" desc="比对前检测手指开关。默认：true" format="boolean" useable="true">false</auth_check_finger>
+  </customer>
+  
+</sunwave:Config>
